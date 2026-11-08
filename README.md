@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/fmanzanequemar/fmanzanequemar)
 ![Issues](https://img.shields.io/github/issues/fmanzanequemar/fmanzanequemar)
 ![Último commit](https://img.shields.io/github/last-commit/fmanzanequemar/fmanzanequemar)
-![Licencia](https://img.shields.io/github/license/fmanzanequemar/fmanzanequemar)
+![Licencia](https://img.shields.io/github/license/fmanzanequemar/fmanzanequemar?cacheSeconds=60)
 
 ## Hi there 👋
 
