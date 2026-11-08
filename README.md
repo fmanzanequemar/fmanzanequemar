@@ -1,4 +1,9 @@
+![Estático](https://img.shields.io/badge/fmanzanequemar-Trabajando-red)
+
 ## Hi there 👋
+
+- 🔭 I’m currently working on multiple projects
+
 
 <!--
 **fmanzanequemar/fmanzanequemar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
